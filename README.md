@@ -1,6 +1,6 @@
 # Introduction
 
-This boilerplate is targeted towards large, serious projects and assumes you are somewhat familiar with Webpack and `weex-loader`. 
+The project starts with familiarity with `webpack` and `vue. Js`. 
 
 ## Quickstart
 
