@@ -2,7 +2,6 @@
   <div class="app-wrapper">
     <router-view class="r-box"/>
     <tab-bar @tabTo="onTabTo"></tab-bar>
-    
   </div>
 </template>
 
@@ -16,7 +15,7 @@ export default {
   },
   data () {
     return {
-      
+
     }
   },
   created(){
